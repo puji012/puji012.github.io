@@ -7,6 +7,5 @@ h1   {font-family: "Times New Roman",Times,serif;
 body {background-color:#f0e68c;
       background-image:
       url("task21ai.png");
-      background-position: right top;
-      margin-right: 300px;
+      background-repeat: no-repeat;	}
       	}
